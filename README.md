@@ -1,4 +1,13 @@
 ## Hi there 👋
+As a skilled Software Engineer and .NET developer, I possess a strong background in building robust websites and web applications using ASP.NET frameworks. My expertise extends to modern technologies and frameworks such as .NET Framework, .NET Core, .NET Web API, and MVC. With C# as my backend language of choice, I am adept at utilizing Entity Framework, ADO.NET, and Dapper as ORMs.
+
+In the realm of front-end development, I excel in HTML5, CSS3, jQuery, Bootstrap, and JavaScript, and I have leveraged the power of Angular and TypeScript to craft dynamic and engaging user interfaces. Additionally, my proficiency in SQL, including Microsoft SQL Server and MySQL, allows me to effectively manage and optimize databases.
+
+I am also experienced with Azure and have a deep understanding of performance optimization techniques such as caching and asynchronous programming. Throughout my career, I have employed various software development tools like Microsoft Visual Studio 2019 and 2021, VS Code, MS SQL Server 2018, and Postman to create exceptional solutions that meet and exceed client expectations.
+
+Beyond my technical prowess, I have honed my mentoring and leadership abilities through active involvement in extracurricular and co-curricular activities. Serving as the President of the HIF, Joint Secretary of the Pakistan Level Blood Society AIFA, and holding positions such as Vice President, Information Secretary, Spokesperson, Motivational Speaker, and Event Organizer for various university societies, I have demonstrated exceptional interpersonal skills and effective management acumen.
+
+With expertise in Git, design patterns, the SDLC, SRS, project management tools like Jira, and a commitment to secure coding practices, I invite you to review my profile of work and get in touch to explore how my unique skill set and extensive experience can significantly contribute to the success of your team.
 
 <!--
 **attiquekashmiri/attiquekashmiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
